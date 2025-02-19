@@ -1,7 +1,5 @@
 # CS-210-Module-Eight-Journal
 
-Summarize the project and what problem it was solving.
-
   This project is a C++ banking application designed to simulate investment growth calculations. It enables users to input their initial investment amount, monthly deposit, annual interest rate, and the duration of the investment in years. The application calculates and displays the growth of the investment over time, including the end-of-year balance and earned interest, with and without additional monthly deposits. The problem it solves is providing users with a clear financial projection of their investments, helping them understand the impact of compound interest and how regular deposits can increase their investment growth over time.
 
 What did you do particularly well?
